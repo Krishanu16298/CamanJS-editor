@@ -1,0 +1,10 @@
+.con{
+    width:60%;
+    margin: auto;
+}
+
+#canvas{
+    width:100%;
+    background:#eee;
+    margin:auto;
+}
